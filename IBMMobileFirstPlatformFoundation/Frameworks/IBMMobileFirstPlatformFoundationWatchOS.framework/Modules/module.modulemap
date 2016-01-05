@@ -1,0 +1,6 @@
+framework module IBMMobileFirstPlatformFoundationWatchOS {
+  umbrella header "IBMMobileFirstPlatformFoundationWatchOS.h"
+
+  export *
+  module * { export * }
+}
